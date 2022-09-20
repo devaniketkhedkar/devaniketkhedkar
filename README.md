@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devaniketkhedkar
+- 👋 Hi, I’m Aniket Khedkar AKA @devaniketkhedkar
 - 👀 I’m interested in Data Science, Pyton, Java, PowerBI, Cloud, Big Data
 - 🌱 I’m currently learning Data Science, Pyton, Java, PowerBI, Cloud, Big Data
 - 💞️ I’m looking to collaborate on Different Data Science Projects for learning purpose.
